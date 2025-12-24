@@ -1,0 +1,14 @@
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\bin\Debug\net8.0\assignment2.exe
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\bin\Debug\net8.0\assignment2.deps.json
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\bin\Debug\net8.0\assignment2.runtimeconfig.json
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\bin\Debug\net8.0\assignment2.dll
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\bin\Debug\net8.0\assignment2.pdb
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.AssemblyInfoInputs.cache
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.AssemblyInfo.cs
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.csproj.CoreCompileInputs.cache
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.dll
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\refint\assignment2.dll
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.pdb
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\assignment2.genruntimeconfig.cache
+D:\CDAC\Assignment\DOTNET\Assignment_2\assignment2\obj\Debug\net8.0\ref\assignment2.dll

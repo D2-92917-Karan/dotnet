@@ -1,0 +1,7 @@
+D:\CDAC\dotNet\ConsoleApp2\bin\Debug\Assignment1.exe.config
+D:\CDAC\dotNet\ConsoleApp2\bin\Debug\Assignment1.exe
+D:\CDAC\dotNet\ConsoleApp2\bin\Debug\Assignment1.pdb
+D:\CDAC\dotNet\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\CDAC\dotNet\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\CDAC\dotNet\ConsoleApp2\obj\Debug\Assignment1.exe
+D:\CDAC\dotNet\ConsoleApp2\obj\Debug\Assignment1.pdb
